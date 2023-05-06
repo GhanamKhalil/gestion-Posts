@@ -1,0 +1,8 @@
+#listPost{
+    display: flex;
+}
+#item{
+    max-width: 200px;
+    border: 1px black;
+    margin: 15px;
+}
